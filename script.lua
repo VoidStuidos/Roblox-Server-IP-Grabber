@@ -4,7 +4,7 @@
     (The roblox server is waiting packets go send!!!)
 ]]
 
-getgenv().RobloxCookie = "" -- Add your roblox cookie here || copy it exactly as it is
+getgenv().RobloxCookie = "" -- 4838586429 || copy it exactly as it is
 
 local request = syn.request or request
 local gameid = game.PlaceId
